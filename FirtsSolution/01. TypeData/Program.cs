@@ -9,12 +9,12 @@
             string grad = "Sofia";
             int age = 17;
             double uspeh = 5.45;
-
+            double savedMoney = 200000.50;
 
             //Интерполация
             Console.WriteLine($"My name is {name}. I am {age} years old. I am from {grad}.");
-
-
+            
+            
 
         }
     }
