@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Demo", "01. Demo\01. De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{9B0816FE-B7BE-4EDD-97DB-1791CA26768D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipNaChislo", "TipNaChislo\TipNaChislo.csproj", "{265BD16E-0144-4CE3-BBC1-169BE1EC2BA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9B0816FE-B7BE-4EDD-97DB-1791CA26768D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B0816FE-B7BE-4EDD-97DB-1791CA26768D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B0816FE-B7BE-4EDD-97DB-1791CA26768D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265BD16E-0144-4CE3-BBC1-169BE1EC2BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265BD16E-0144-4CE3-BBC1-169BE1EC2BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265BD16E-0144-4CE3-BBC1-169BE1EC2BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265BD16E-0144-4CE3-BBC1-169BE1EC2BA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
