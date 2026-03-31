@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad1", "zad1\zad1.csproj", "{0E5E3065-3F86-488C-BB58-97E318DC3F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B4E56E86-F319-4A55-AEC3-038DD82D6D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad2", "zad2\zad2.csproj", "{94809C5B-614F-4311-B8A9-9368DA8633C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E5E3065-3F86-488C-BB58-97E318DC3F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5E3065-3F86-488C-BB58-97E318DC3F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5E3065-3F86-488C-BB58-97E318DC3F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5E3065-3F86-488C-BB58-97E318DC3F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E56E86-F319-4A55-AEC3-038DD82D6D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E56E86-F319-4A55-AEC3-038DD82D6D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E56E86-F319-4A55-AEC3-038DD82D6D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E56E86-F319-4A55-AEC3-038DD82D6D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94809C5B-614F-4311-B8A9-9368DA8633C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94809C5B-614F-4311-B8A9-9368DA8633C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94809C5B-614F-4311-B8A9-9368DA8633C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94809C5B-614F-4311-B8A9-9368DA8633C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6039A73B-E7CC-4A33-9528-5835144AF145}
+	EndGlobalSection
+EndGlobal
