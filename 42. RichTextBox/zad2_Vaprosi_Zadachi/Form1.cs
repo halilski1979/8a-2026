@@ -36,7 +36,7 @@
             if (userNumbers.Count != 6)
             {
                 MessageBox.Show("Моля, въведете точно 6 различни числа между 1 и 49 (по едно на ред)!");
-                RichTextBox.
+               
                 return;
             }
 

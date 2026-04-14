@@ -38,7 +38,7 @@
             // 
             // richTextBox1
             // 
-            richTextBox1.Location = new Point(91, 93);
+            richTextBox1.Location = new Point(91, 88);
             richTextBox1.Name = "richTextBox1";
             richTextBox1.Size = new Size(119, 192);
             richTextBox1.TabIndex = 0;
@@ -98,7 +98,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(472, 443);
             Controls.Add(button1);
             Controls.Add(labelAvg);
             Controls.Add(labelSum);
